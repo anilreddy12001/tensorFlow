@@ -30,3 +30,5 @@ const ImageUpload = ({ onImageUpload }) => {
     </div>
   );
 };
+
+export default ImageUpload;
